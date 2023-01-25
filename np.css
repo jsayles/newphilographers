@@ -49,19 +49,11 @@
       margin-bottom: 10px;
    }
 
-   .page_image {
+   .page {
       margin-left: auto;
       margin-right: auto;
-      background-color: #f3f3f3;
       width: 600px;
-      border-radius: 4px;
-      -webkit-box-shadow: 0 0 20px 0 #3D3D3D;
-      box-shadow: 0 0 20px 0 #3D3D3D;
-      overflow:hidden;
-   }
-
-   .page {
-      size: letter;
+      height: 776px;
       background-color: #f3f3f3;
       border-radius: 4px;
       -webkit-box-shadow: 0 0 20px 0 #3D3D3D;

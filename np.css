@@ -24,7 +24,7 @@
       margin-top: 0px;
       text-indent: -1em;
    }
-   ul li:before {
+   .toc ul li:before {
       content: "\0BB \020";
    }
 

@@ -9,9 +9,10 @@
       top: 20px;
    }
    
-   @media (max-width:1070px) {
+   @media (max-width:1024px) {
       .toc {
          position: relative;
+         margin-left: 40%;
       }
    }
    
